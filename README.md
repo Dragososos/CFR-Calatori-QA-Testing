@@ -106,17 +106,13 @@ All 6 defects were discovered during exploratory testing.
 
 ## Repository Contents
 
-```
-├── README.md
-├── LICENSE
-├── .gitignore
-├── reports/
-│   └── Test-Report-CFR-Calatori.docx      ← Full formal Test Report
-├── test-data/
-│   └── Test-Data-CFR-Calatori.xlsx        ← Complete Test Data Set
-└── presentations/
-    └── QA-Presentation-CFR-Calatori.pptx  ← Project presentation
-```
+| File                                | Description                          |
+|-------------------------------------|--------------------------------------|
+| `README.md`                         | This file                            |
+| `LICENSE`                           | MIT License                          |
+| `Test-Report-CFR-Calatori.docx`     | Full formal Test Report              |
+| `Test-Data-CFR-Calatori.xlsx`       | Complete Test Data Set               |
+| `QA-Presentation-CFR-Calatori.pptx` | Project presentation (slides)        |
 
 ---
 
